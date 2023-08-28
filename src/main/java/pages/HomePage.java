@@ -2,6 +2,6 @@ package pages;
 
 import org.openqa.selenium.WebDriver;
 
-public class LoginPage {
+public class HomePage {
 	WebDriver driver;
 }
